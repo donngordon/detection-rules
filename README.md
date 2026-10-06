@@ -43,4 +43,4 @@ Other backends include Elasticsearch/Lucene and Microsoft Sentinel (KQL).
 
 ## Author
 
-Donn Gordon
+Donn Gordon · [LinkedIn](https://www.linkedin.com/in/donn-gordon-120607117) · [GitHub](https://github.com/donngordon)
